@@ -40,7 +40,6 @@ bananaGroup = new Group()
 obstacleGroup = new Group()
 
 
-obstacle.setCollider
 }
 
 
